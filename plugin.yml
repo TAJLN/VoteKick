@@ -1,0 +1,7 @@
+name: Votekick
+main: devbr.matthew.Votekick
+version: 0.2
+author: MatthewDevBr, TAJLN
+commands:
+ votekick:
+ vote:
